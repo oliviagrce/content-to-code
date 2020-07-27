@@ -1,5 +1,5 @@
 ---
-summary: "Quick project summary shown here."
+summary: "Given a chunk of content, determine the groups & HTML tags—without writing any code."
 time: "1 hour"
 deliverables: "A GitHub Issue"
 ---
