@@ -11,8 +11,10 @@ deliverables: "A GitHub Issue"
 - _Fork & clone this repository._
 - Using the two PDFs, determine the most semantically appropriate HTML tag for each numbered content
 - There are two PDFs:
-  <br>`content-to-code.pdf` — Just the plain content, by itself
-  <br>`content-to-code-numbers.pdf` — A messier version showing each numbered tag
+  `content-to-code.pdf`
+  — Just the plain content, by itself
+  `content-to-code-numbers.pdf`
+  — A messier version showing each numbered tag
 - _Submit your HTML tag choices with explanations._
 
 ---
